@@ -1,24 +1,32 @@
-# 👋 Hi there! I'm **Pandu Putra Mulwanda**
-### Software Engineer
+# Hi, I'm Pandu Putra Mulwanda!
 
-I'm a passionate software engineer with experience in JavaScript, Python, and React. I love solving problems and building efficient software solutions.
+![GitHub Logo](https://octodex.github.com/images/codercat.jpg)
 
-## 🛠️ Technologies & Tools
-- 🌐 HTML, CSS, JavaScript
-- 🔧 React, Node.js, Express
-- 🐍 Python, Django
-- 🗄️ PostgreSQL, MongoDB
+Aspiring Software Engineer • Enthusiast of Modern Web Technologies
 
-## 🚀 Projects
-- [**Project One**](link-to-your-project): A brief description of what this project does.
-- [**Project Two**](link-to-your-project): A brief description of what this project does.
+---
 
-## 📫 How to reach me
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn Profile](your-linkedin-url)
+Welcome to my GitHub profile! I'm Pandu Putra Mulwanda, an aspiring software engineer with a passion for coding, problem-solving, and creating impactful software. Currently diving deep into various aspects of software development, I aim to contribute to open-source projects and build tools that make a difference.
 
-## 🎉 Fun Facts
-- I love hiking and exploring nature.
-- I'm an avid reader and enjoy science fiction novels.
+---
 
-![Statistik GitHub Pandu](https://github-readme-stats.vercel.app/api?username=panduwnda&show_icons=true&theme=radical&count_private=true)
+## 🔭 What I'm Currently Working On:
+- Building innovative web applications using Next.js and TypeScript
+- Exploring automation techniques in Google Sheets with Apps Script
+- Developing a startup concept for an online learning platform focused on statistics
+
+## 🌱 What I'm Learning:
+- Advanced TypeScript and Next.js for scalable applications
+- Backend development for seamless integration
+- Data management and efficient system design
+
+---
+
+## 📫 Connect with Me:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/panduwnda) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/panduwnda) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/panduwnda) 
+
+---
+
+"Always learning, always coding."
