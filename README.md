@@ -21,4 +21,4 @@ I'm a passionate software engineer with experience in JavaScript, Python, and Re
 - I love hiking and exploring nature.
 - I'm an avid reader and enjoy science fiction novels.
 
-![Pandu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Statistik GitHub Pandu](https://github-readme-stats.vercel.app/api?username=panduwnda&show_icons=true&theme=radical&count_private=true)
